@@ -67,3 +67,6 @@
   
   })(jQuery); // End of use strict
   
+function send() {
+  window.open('mailto:djoseitz@protonmail.com');
+}
